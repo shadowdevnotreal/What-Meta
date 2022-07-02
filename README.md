@@ -1,4 +1,4 @@
-# What-Meta, What Meta?
+# What Meta?
 Automated Text Redaction and Meta Data Removal Tool
 
 ## This is a work in progress but it is close to completion.
