@@ -1,7 +1,7 @@
 # What Meta? #
 Automated Text Redaction and Meta Data Removal Tool
 
-<a href="https://www.buymeacoffee.com/notarealdev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;" ></a>
+<a href="https://www.buymeacoffee.com/diatasso" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;" ></a>
 
 ## This is a work in progress but it is close to completion. ##
 The tool will open a GUI window and allow you to import a document.
